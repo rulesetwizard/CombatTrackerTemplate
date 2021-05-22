@@ -8,7 +8,7 @@
     <Website>www.rulesetwizard.com</Website>
     <Version>1</Version>
     <Release>0</Release>
-    <RulesetWizardVersion>0.6.6</RulesetWizardVersion>
+    <RulesetWizardVersion>0.6.7</RulesetWizardVersion>
     <RulesetList>CoreRPG</RulesetList>
     <LoadOrder />
     <Comments />
@@ -16,8 +16,6 @@
     <LogoFile />
     <ImportRuleset>CoreRPG</ImportRuleset>
     <AdvancedDevelopment>true</AdvancedDevelopment>
-    <GitAuthor />
-    <GitEmail />
     <GeneratePath />
   </RulesetProperties>
 </Ruleset>
