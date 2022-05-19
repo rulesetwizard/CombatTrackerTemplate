@@ -8,7 +8,7 @@
     <Website>www.rulesetwizard.com</Website>
     <Version>1</Version>
     <Release>0</Release>
-    <RulesetWizardVersion>0.7.12</RulesetWizardVersion>
+    <RulesetWizardVersion>0.7.16</RulesetWizardVersion>
     <RulesetList>CoreRPG</RulesetList>
     <LoadOrder />
     <Comments />
@@ -129,6 +129,7 @@
 end
 </LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>client_ct_entry</WindowName>
@@ -186,6 +187,7 @@ end
     end
 end</LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>client_ct_entry</WindowName>
@@ -228,6 +230,7 @@ end</LUACode>
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>client_ct_entry</WindowName>
@@ -342,6 +345,7 @@ function onIDChanged()
 end
 </LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>client_ct_entry</WindowName>
@@ -385,6 +389,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>client_ct_entry</WindowName>
@@ -427,6 +432,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>client_ct_entry</WindowName>
@@ -479,6 +485,7 @@ end
 end
 </LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>client_ct_entry</WindowName>
@@ -535,6 +542,7 @@ end
 end
 </LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>client_ct_entry</WindowName>
@@ -577,6 +585,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>client_ct_entry</WindowName>
@@ -623,6 +632,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>client_ct_entry</WindowName>
@@ -675,6 +685,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>client_ct_entry</WindowName>
@@ -727,6 +738,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>client_ct_entry</WindowName>
@@ -771,6 +783,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>client_ct_entry</WindowName>
@@ -814,6 +827,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>client_ct_entry</WindowName>
@@ -857,6 +871,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>client_ct_entry</WindowName>
@@ -909,6 +924,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>client_ct_entry</WindowName>
@@ -961,6 +977,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>client_ct_entry</WindowName>
@@ -1014,6 +1031,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>clientct_effects</WindowName>
@@ -1073,6 +1091,7 @@ end
 
 end</LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>clientct_effects</WindowName>
@@ -1127,6 +1146,7 @@ end</LUACode>
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>clientct_effects</WindowName>
@@ -1169,6 +1189,7 @@ end</LUACode>
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_client</WindowName>
@@ -1218,6 +1239,7 @@ end</LUACode>
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_client</WindowName>
@@ -1267,6 +1289,7 @@ end</LUACode>
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_client</WindowName>
@@ -1332,6 +1355,7 @@ function updateShowOrder()
 end
 </LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_client</WindowName>
@@ -1375,6 +1399,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_client</WindowName>
@@ -1418,6 +1443,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_client</WindowName>
@@ -1461,6 +1487,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_client</WindowName>
@@ -1596,6 +1623,7 @@ function onClickRelease(button, x, y)
 end
 </LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_client</WindowName>
@@ -1638,6 +1666,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_client</WindowName>
@@ -1691,6 +1720,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_client</WindowName>
@@ -1735,6 +1765,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_client</WindowName>
@@ -1793,6 +1824,7 @@ function onDragStart(button, x, y, draginfo)
     return true;
 end</LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
@@ -1842,6 +1874,7 @@ end</LUACode>
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
@@ -1884,6 +1917,7 @@ end</LUACode>
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
@@ -1926,6 +1960,7 @@ end</LUACode>
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
@@ -1968,6 +2003,7 @@ end</LUACode>
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
@@ -2017,6 +2053,7 @@ end</LUACode>
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
@@ -2076,6 +2113,7 @@ function onDragStart(button, x, y, draginfo)
 end
 </LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
@@ -2125,6 +2163,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
@@ -2188,6 +2227,7 @@ function onDragEnd(draginfo)
     widget.setVisible(true);
 end</LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
@@ -2240,6 +2280,7 @@ end</LUACode>
 end
 </LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
@@ -2292,6 +2333,7 @@ end
 end
 </LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
@@ -2344,6 +2386,7 @@ end
 end
 </LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
@@ -2396,6 +2439,7 @@ end
 end
 </LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
@@ -2448,6 +2492,7 @@ end
 end
 </LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
@@ -2500,6 +2545,7 @@ end
 end
 </LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
@@ -2549,6 +2595,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
@@ -2602,6 +2649,7 @@ function onButtonPress()
 end
 </LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
@@ -2656,6 +2704,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
@@ -2698,6 +2747,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
@@ -2740,6 +2790,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
@@ -2783,6 +2834,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
@@ -2826,6 +2878,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
@@ -2869,6 +2922,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
@@ -3117,6 +3171,7 @@ function onDrop(x, y, draginfo)
 end
 </LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
@@ -3159,6 +3214,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
@@ -3214,6 +3270,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
@@ -3258,6 +3315,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_attacks</WindowName>
@@ -3310,6 +3368,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_attacks</WindowName>
@@ -3362,6 +3421,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_defense</WindowName>
@@ -3414,6 +3474,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_defense</WindowName>
@@ -3466,6 +3527,7 @@ end
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_effects</WindowName>
@@ -3525,6 +3587,7 @@ end
 
 end</LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_effects</WindowName>
@@ -3579,6 +3642,7 @@ end</LUACode>
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_effects</WindowName>
@@ -3628,6 +3692,7 @@ end</LUACode>
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -3646,7 +3711,7 @@ end</LUACode>
       {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"20"}},
       {"Name":"DesignerLocked","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"DesignerWidth","Value":{"@xsi:type":"xsd:int","#text":"20"}},
-      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
+      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"SecretRoll":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
       {"Name":"Disabled"},
       {"Name":"FontColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
       {"Name":"FontName","Value":{"@xsi:type":"xsd:string"}},
@@ -3660,7 +3725,11 @@ end</LUACode>
       {"Name":"InheritSizePosition"},
       {"Name":"InsertBefore"},
       {"Name":"Invisible"},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"NextTabTarget"},
       {"Name":"NormalIconName","Value":{"@xsi:type":"xsd:string","#text":"button_sword_down"}},
       {"Name":"PressedIconName"},
@@ -3671,6 +3740,7 @@ end</LUACode>
       {"Name":"ScriptFile"},
       {"Name":"StackVertWith"},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"447"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"9"}}
@@ -3681,6 +3751,7 @@ end</LUACode>
 end
 </LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -3699,7 +3770,7 @@ end
       {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"20"}},
       {"Name":"DesignerLocked","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"DesignerWidth","Value":{"@xsi:type":"xsd:int","#text":"20"}},
-      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
+      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"SecretRoll":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
       {"Name":"Disabled"},
       {"Name":"FontColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
       {"Name":"FontName","Value":{"@xsi:type":"xsd:string"}},
@@ -3713,7 +3784,11 @@ end
       {"Name":"InheritSizePosition"},
       {"Name":"InsertBefore"},
       {"Name":"Invisible"},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"NextTabTarget"},
       {"Name":"NormalIconName","Value":{"@xsi:type":"xsd:string","#text":"button_shield_down"}},
       {"Name":"PressedIconName"},
@@ -3724,6 +3799,7 @@ end
       {"Name":"ScriptFile"},
       {"Name":"StackVertWith"},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"471"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"9"}}
@@ -3734,6 +3810,7 @@ end
 end
 </LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -3752,7 +3829,7 @@ end
       {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"20"}},
       {"Name":"DesignerLocked","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"DesignerWidth","Value":{"@xsi:type":"xsd:int","#text":"20"}},
-      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
+      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"SecretRoll":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
       {"Name":"Disabled"},
       {"Name":"FontColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
       {"Name":"FontName","Value":{"@xsi:type":"xsd:string"}},
@@ -3766,7 +3843,11 @@ end
       {"Name":"InheritSizePosition"},
       {"Name":"InsertBefore"},
       {"Name":"Invisible"},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"NextTabTarget"},
       {"Name":"NormalIconName","Value":{"@xsi:type":"xsd:string","#text":"button_effect_down"}},
       {"Name":"PressedIconName"},
@@ -3777,6 +3858,7 @@ end
       {"Name":"ScriptFile"},
       {"Name":"StackVertWith"},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"424"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"9"}}
@@ -3787,6 +3869,7 @@ end
 end
 </LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -3805,7 +3888,7 @@ end
       {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"20"}},
       {"Name":"DesignerLocked","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"DesignerWidth","Value":{"@xsi:type":"xsd:int","#text":"20"}},
-      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
+      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"SecretRoll":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
       {"Name":"Disabled"},
       {"Name":"FontColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
       {"Name":"FontName","Value":{"@xsi:type":"xsd:string"}},
@@ -3819,7 +3902,11 @@ end
       {"Name":"InheritSizePosition"},
       {"Name":"InsertBefore"},
       {"Name":"Invisible"},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"NextTabTarget"},
       {"Name":"NormalIconName","Value":{"@xsi:type":"xsd:string","#text":"button_space_down"}},
       {"Name":"PressedIconName"},
@@ -3830,6 +3917,7 @@ end
       {"Name":"ScriptFile"},
       {"Name":"StackVertWith"},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"400"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"9"}}
@@ -3840,6 +3928,7 @@ end
 end
 </LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -3858,7 +3947,7 @@ end
       {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"20"}},
       {"Name":"DesignerLocked","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"DesignerWidth","Value":{"@xsi:type":"xsd:int","#text":"20"}},
-      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
+      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"SecretRoll":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
       {"Name":"Disabled"},
       {"Name":"FontColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
       {"Name":"FontName","Value":{"@xsi:type":"xsd:string"}},
@@ -3872,7 +3961,11 @@ end
       {"Name":"InheritSizePosition"},
       {"Name":"InsertBefore"},
       {"Name":"Invisible"},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"NextTabTarget"},
       {"Name":"NormalIconName","Value":{"@xsi:type":"xsd:string","#text":"button_section_targeting_down"}},
       {"Name":"PressedIconName"},
@@ -3883,6 +3976,7 @@ end
       {"Name":"ScriptFile"},
       {"Name":"StackVertWith"},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"376"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"9"}}
@@ -3893,6 +3987,7 @@ end
 end
 </LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -3911,7 +4006,7 @@ end
       {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"40"}},
       {"Name":"DesignerLocked","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"DesignerWidth","Value":{"@xsi:type":"xsd:int","#text":"33"}},
-      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
+      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"SecretRoll":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
       {"Name":"Disabled"},
       {"Name":"FontColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
       {"Name":"FontName","Value":{"@xsi:type":"xsd:string"}},
@@ -3925,7 +4020,11 @@ end
       {"Name":"InheritSizePosition"},
       {"Name":"InsertBefore"},
       {"Name":"Invisible"},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"NextTabTarget"},
       {"Name":"NormalIconName","Value":{"@xsi:type":"xsd:string","#text":"ct_passive"}},
       {"Name":"PressedIconName"},
@@ -3936,12 +4035,14 @@ end
       {"Name":"ScriptFile","Value":{"@xsi:type":"xsd:string","#text":"ct/scripts/ct_active.lua"}},
       {"Name":"StackVertWith"},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"0"}}
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -3957,7 +4058,7 @@ end
       {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"20"}},
       {"Name":"DesignerLocked","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"DesignerWidth","Value":{"@xsi:type":"xsd:int","#text":"20"}},
-      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
+      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"SecretRoll":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
       {"Name":"Disabled"},
       {"Name":"FrameName"},
       {"Name":"FrameOffset","Value":{"@xsi:type":"xsd:string"}},
@@ -3969,21 +4070,27 @@ end
       {"Name":"InheritSizePosition"},
       {"Name":"InsertBefore"},
       {"Name":"Invisible"},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"NextTabTarget"},
       {"Name":"PrevTabTarget"},
       {"Name":"ReadOnly"},
       {"Name":"RelativeMargin"},
       {"Name":"RelativeStacking"},
       {"Name":"ScriptFile"},
-      {"Name":"StackVertWith","Value":{"@xsi:type":"xsd:string","#text":"sub_effects"}},
+      {"Name":"StackVertWith","Value":{"@xsi:type":"xsd:string","#text":"sub_attacks"}},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"68"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"151"}}
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -3992,6 +4099,7 @@ end
     <ControlClass>FGCustomControl</ControlClass>
     <Definition>{"ArrayOfFGControlPropertyInfo":{"@xmlns:xsd":"http://www.w3.org/2001/XMLSchema","@xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance","FGControlPropertyInfo":[
       {"Name":"BackgroundColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
+      {"Name":"CanGrowVert"},
       {"Name":"ControlName","Value":{"@xsi:type":"xsd:string","#text":"bottom_spacer"}},
       {"Name":"CustomAnchoring","Value":{"@xsi:type":"ArrayOfAnchorDefinition"}},
       {"Name":"CustomClassName"},
@@ -4011,21 +4119,28 @@ end
       {"Name":"InheritSizePosition"},
       {"Name":"InsertBefore"},
       {"Name":"Invisible"},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"NextTabTarget"},
       {"Name":"PrevTabTarget"},
       {"Name":"ReadOnly"},
       {"Name":"RelativeMargin","Value":{"@xsi:type":"xsd:int","#text":"10"}},
       {"Name":"RelativeStacking","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"ScriptFile"},
+      {"Name":"Source"},
       {"Name":"StackVertWith","Value":{"@xsi:type":"xsd:string","#text":"token"}},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"34"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"267"}}
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -4045,7 +4160,6 @@ end
       {"Name":"Disabled"},
       {"Name":"Dynamic"},
       {"Name":"FrameName","Value":{"@xsi:type":"xsd:string","#text":"ctentrybox"}},
-      {"Name":"FrameOffset","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"HorizontalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"HostControl"},
       {"Name":"HoverCursor"},
@@ -4055,6 +4169,7 @@ end
       {"Name":"MaximumHeight"},
       {"Name":"MaximumWidth"},
       {"Name":"MergeWindow","Value":{"@xsi:type":"xsd:string"}},
+      {"Name":"MinimizedIcon"},
       {"Name":"MinimumHeight","Value":{"@xsi:type":"xsd:int","#text":"40"}},
       {"Name":"MinimumWidth"},
       {"Name":"NoClose"},
@@ -4071,6 +4186,8 @@ end
       {"Name":"Sharable"},
       {"Name":"ShareAs"},
       {"Name":"SoftClose"},
+      {"Name":"Tooltip"},
+      {"Name":"TooltipField"},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"WindowTitle"},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"0"}},
@@ -4284,6 +4401,7 @@ function setDefenseVisible()
 end
 </LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -4299,7 +4417,7 @@ end
       {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"20"}},
       {"Name":"DesignerLocked","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"DesignerWidth","Value":{"@xsi:type":"xsd:int","#text":"20"}},
-      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
+      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"SecretRoll":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
       {"Name":"Disabled"},
       {"Name":"FrameName"},
       {"Name":"FrameOffset","Value":{"@xsi:type":"xsd:string"}},
@@ -4311,21 +4429,27 @@ end
       {"Name":"InheritSizePosition"},
       {"Name":"InsertBefore"},
       {"Name":"Invisible"},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"NextTabTarget"},
       {"Name":"PrevTabTarget"},
       {"Name":"ReadOnly"},
       {"Name":"RelativeMargin"},
       {"Name":"RelativeStacking"},
       {"Name":"ScriptFile"},
-      {"Name":"StackVertWith","Value":{"@xsi:type":"xsd:string","#text":"sub_attacks"}},
+      {"Name":"StackVertWith","Value":{"@xsi:type":"xsd:string","#text":"sub_defense"}},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"68"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"186"}}
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -4343,6 +4467,7 @@ end
       {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"18"}},
       {"Name":"DesignerLocked","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"DesignerWidth","Value":{"@xsi:type":"xsd:int","#text":"445"}},
+      {"Name":"Disabled"},
       {"Name":"FontColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
       {"Name":"FontName","Value":{"@xsi:type":"xsd:string","#text":"sheettext"}},
       {"Name":"FrameName"},
@@ -4354,7 +4479,11 @@ end
       {"Name":"InsertBefore"},
       {"Name":"Invisible","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"LabelCaption","Value":{"@xsi:type":"xsd:string"}},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"MultilineSpacing","Value":{"@xsi:type":"xsd:int","#text":"16"}},
       {"Name":"NextTabTarget"},
       {"Name":"PrevTabTarget"},
@@ -4362,13 +4491,16 @@ end
       {"Name":"RelativeStacking","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"ScriptFile","Value":{"@xsi:type":"xsd:string","#text":"ct/scripts/ct_effect_summary.lua"}},
       {"Name":"StackVertWith","Value":{"@xsi:type":"xsd:string","#text":"token"}},
+      {"Name":"TextUnderlined"},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"72"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"243"}}
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -4384,7 +4516,7 @@ end
       {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"20"}},
       {"Name":"DesignerLocked","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"DesignerWidth","Value":{"@xsi:type":"xsd:int","#text":"20"}},
-      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
+      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"SecretRoll":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
       {"Name":"Disabled"},
       {"Name":"FrameName"},
       {"Name":"FrameOffset","Value":{"@xsi:type":"xsd:string"}},
@@ -4396,21 +4528,27 @@ end
       {"Name":"InheritSizePosition"},
       {"Name":"InsertBefore"},
       {"Name":"Invisible"},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"NextTabTarget"},
       {"Name":"PrevTabTarget"},
       {"Name":"ReadOnly"},
       {"Name":"RelativeMargin"},
       {"Name":"RelativeStacking"},
       {"Name":"ScriptFile"},
-      {"Name":"StackVertWith","Value":{"@xsi:type":"xsd:string","#text":"sub_spacing"}},
+      {"Name":"StackVertWith","Value":{"@xsi:type":"xsd:string","#text":"sub_effects"}},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"69"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"116"}}
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -4429,7 +4567,7 @@ end
       {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"20"}},
       {"Name":"DesignerLocked","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"DesignerWidth","Value":{"@xsi:type":"xsd:int","#text":"20"}},
-      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
+      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"SecretRoll":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
       {"Name":"Disabled"},
       {"Name":"FontColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
       {"Name":"FontName","Value":{"@xsi:type":"xsd:string"}},
@@ -4443,7 +4581,11 @@ end
       {"Name":"InheritSizePosition"},
       {"Name":"InsertBefore"},
       {"Name":"Invisible"},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"NextTabTarget"},
       {"Name":"NormalIconName","Value":{"@xsi:type":"xsd:string","#text":"ct_faction_neutral"}},
       {"Name":"PressedIconName"},
@@ -4454,6 +4596,7 @@ end
       {"Name":"ScriptFile"},
       {"Name":"StackVertWith"},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"352"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"9"}}
@@ -4463,6 +4606,7 @@ end
 end
 </LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -4481,7 +4625,7 @@ end
       {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"30"}},
       {"Name":"DesignerLocked","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"DesignerWidth","Value":{"@xsi:type":"xsd:int","#text":"47"}},
-      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
+      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"SecretRoll":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
       {"Name":"Disabled"},
       {"Name":"DisplaySign"},
       {"Name":"FontColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
@@ -4491,13 +4635,18 @@ end
       {"Name":"GMEditOnly"},
       {"Name":"GMVisibleOnly"},
       {"Name":"HideOnValue","Value":{"@xsi:type":"xsd:decimal","#text":"0"}},
+      {"Name":"HideRollWidget"},
       {"Name":"HorizontalAnchor","Value":{"@xsi:type":"xsd:int","#text":"1"}},
       {"Name":"HoverCursor"},
       {"Name":"InheritSizePosition"},
       {"Name":"InsertBefore"},
       {"Name":"Invisible"},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"MaxValue"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"MinValue"},
       {"Name":"NextTabTarget"},
       {"Name":"NoDrag"},
@@ -4508,8 +4657,10 @@ end
       {"Name":"RelativeMargin"},
       {"Name":"RelativeStacking"},
       {"Name":"ScriptFile"},
+      {"Name":"Source"},
       {"Name":"StackVertWith"},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"298"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"4"}}
@@ -4519,6 +4670,7 @@ end
 end
 </LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -4537,7 +4689,7 @@ end
       {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"12"}},
       {"Name":"DesignerLocked","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"DesignerWidth","Value":{"@xsi:type":"xsd:int","#text":"12"}},
-      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
+      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"SecretRoll":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
       {"Name":"Disabled"},
       {"Name":"FontColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
       {"Name":"FontName","Value":{"@xsi:type":"xsd:string"}},
@@ -4551,7 +4703,11 @@ end
       {"Name":"InheritSizePosition"},
       {"Name":"InsertBefore"},
       {"Name":"Invisible","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"NextTabTarget"},
       {"Name":"NormalIconName","Value":{"@xsi:type":"xsd:string","#text":"record_identified"}},
       {"Name":"PressedIconName"},
@@ -4562,6 +4718,7 @@ end
       {"Name":"ScriptFile"},
       {"Name":"StackVertWith"},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"52"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"6"}}
@@ -4572,6 +4729,7 @@ end
     end
 end</LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -4602,7 +4760,11 @@ end</LUACode>
       {"Name":"LinkFieldDescriptionField"},
       {"Name":"LinkFieldRecordName"},
       {"Name":"LinkFieldSelfOnEmpty","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"NextTabTarget"},
       {"Name":"NoDrag"},
       {"Name":"PrevTabTarget"},
@@ -4610,8 +4772,10 @@ end</LUACode>
       {"Name":"RelativeMargin"},
       {"Name":"RelativeStacking"},
       {"Name":"ScriptFile"},
+      {"Name":"Source"},
       {"Name":"StackVertWith"},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"494"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"9"}}
@@ -4621,6 +4785,7 @@ end</LUACode>
 end
 </LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -4631,6 +4796,7 @@ end
       {"Name":"AdvancedTemplate","Value":{"@xsi:type":"xsd:string","#text":"string_ct"}},
       {"Name":"BackgroundColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
       {"Name":"CanGrowVert"},
+      {"Name":"Center"},
       {"Name":"ControlName","Value":{"@xsi:type":"xsd:string","#text":"name"}},
       {"Name":"CustomAnchoring","Value":{"@xsi:type":"ArrayOfAnchorDefinition"}},
       {"Name":"CustomProperties","Value":{"@xsi:type":"ArrayOfCustomProperty"}},
@@ -4639,7 +4805,7 @@ end
       {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"20"}},
       {"Name":"DesignerLocked","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"DesignerWidth","Value":{"@xsi:type":"xsd:int","#text":"223"}},
-      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
+      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"SecretRoll":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
       {"Name":"Disabled"},
       {"Name":"EmptyText"},
       {"Name":"FontColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
@@ -4654,7 +4820,11 @@ end
       {"Name":"InsertBefore"},
       {"Name":"Invisible"},
       {"Name":"LineOffset","Value":{"@xsi:type":"xsd:int","#text":"2"}},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"MultilineSpacing"},
       {"Name":"NextTabTarget","Value":{"@xsi:type":"xsd:string","#text":"initresult"}},
       {"Name":"NoDrag","Value":{"@xsi:type":"xsd:boolean","#text":"false"}},
@@ -4665,14 +4835,17 @@ end
       {"Name":"RelativeMargin"},
       {"Name":"RelativeStacking"},
       {"Name":"ScriptFile","Value":{"@xsi:type":"xsd:string","#text":"ct/scripts/ct_name.lua"}},
+      {"Name":"Source"},
       {"Name":"StackVertWith"},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"69"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"11"}}
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -4683,6 +4856,7 @@ end
       {"Name":"AdvancedTemplate","Value":{"@xsi:type":"xsd:string","#text":"string_ct"}},
       {"Name":"BackgroundColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
       {"Name":"CanGrowVert"},
+      {"Name":"Center"},
       {"Name":"ControlName","Value":{"@xsi:type":"xsd:string","#text":"nonid_name"}},
       {"Name":"CustomAnchoring","Value":{"@xsi:type":"ArrayOfAnchorDefinition"}},
       {"Name":"CustomProperties","Value":{"@xsi:type":"ArrayOfCustomProperty","CustomProperty":{"PropertyName":"empty","PropertyValue":null,"PropertyAttributes":"textres=\"library_recordtype_empty_nonid_npc\""}}},
@@ -4691,7 +4865,7 @@ end
       {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"20"}},
       {"Name":"DesignerLocked","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"DesignerWidth","Value":{"@xsi:type":"xsd:int","#text":"223"}},
-      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
+      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"SecretRoll":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
       {"Name":"Disabled"},
       {"Name":"EmptyText","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"FontColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
@@ -4706,7 +4880,11 @@ end
       {"Name":"InsertBefore"},
       {"Name":"Invisible","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"LineOffset","Value":{"@xsi:type":"xsd:int","#text":"2"}},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"MultilineSpacing"},
       {"Name":"NextTabTarget","Value":{"@xsi:type":"xsd:string","#text":"initresult"}},
       {"Name":"NoDrag","Value":{"@xsi:type":"xsd:boolean","#text":"false"}},
@@ -4717,14 +4895,17 @@ end
       {"Name":"RelativeMargin"},
       {"Name":"RelativeStacking"},
       {"Name":"ScriptFile","Value":{"@xsi:type":"xsd:string","#text":"ct/scripts/ct_name.lua"}},
+      {"Name":"Source"},
       {"Name":"StackVertWith"},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"69"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"11"}}
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -4735,6 +4916,7 @@ end
       {"Name":"AdvancedTemplate"},
       {"Name":"BackgroundColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
       {"Name":"CanGrowVert"},
+      {"Name":"Center"},
       {"Name":"ControlName","Value":{"@xsi:type":"xsd:string","#text":"senses"}},
       {"Name":"CustomAnchoring","Value":{"@xsi:type":"ArrayOfAnchorDefinition"}},
       {"Name":"CustomProperties","Value":{"@xsi:type":"ArrayOfCustomProperty"}},
@@ -4743,7 +4925,7 @@ end
       {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"20"}},
       {"Name":"DesignerLocked","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"DesignerWidth","Value":{"@xsi:type":"xsd:int","#text":"20"}},
-      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
+      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"SecretRoll":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
       {"Name":"Disabled"},
       {"Name":"EmptyText"},
       {"Name":"FontColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
@@ -4758,7 +4940,11 @@ end
       {"Name":"InsertBefore"},
       {"Name":"Invisible","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"LineOffset","Value":{"@xsi:type":"xsd:int","#text":"2"}},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"MultilineSpacing"},
       {"Name":"NextTabTarget"},
       {"Name":"NoDrag","Value":{"@xsi:type":"xsd:boolean","#text":"false"}},
@@ -4769,14 +4955,17 @@ end
       {"Name":"RelativeMargin"},
       {"Name":"RelativeStacking"},
       {"Name":"ScriptFile","Value":{"@xsi:type":"xsd:string","#text":"common/scripts/string_crosslink.lua"}},
+      {"Name":"Source"},
       {"Name":"StackVertWith"},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"595"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"8"}}
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -4792,7 +4981,7 @@ end
       {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"20"}},
       {"Name":"DesignerLocked","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"DesignerWidth","Value":{"@xsi:type":"xsd:int","#text":"20"}},
-      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
+      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"SecretRoll":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
       {"Name":"Disabled"},
       {"Name":"FrameName"},
       {"Name":"FrameOffset","Value":{"@xsi:type":"xsd:string"}},
@@ -4804,21 +4993,27 @@ end
       {"Name":"InheritSizePosition"},
       {"Name":"InsertBefore"},
       {"Name":"Invisible"},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"NextTabTarget"},
       {"Name":"PrevTabTarget"},
       {"Name":"ReadOnly"},
       {"Name":"RelativeMargin"},
       {"Name":"RelativeStacking"},
       {"Name":"ScriptFile"},
-      {"Name":"StackVertWith","Value":{"@xsi:type":"xsd:string","#text":"sub_targeting"}},
+      {"Name":"StackVertWith","Value":{"@xsi:type":"xsd:string","#text":"sub_spacing"}},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"68"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"81"}}
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -4847,22 +5042,29 @@ end
       {"Name":"InheritSizePosition"},
       {"Name":"InsertBefore"},
       {"Name":"Invisible"},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"NextTabTarget"},
       {"Name":"PrevTabTarget"},
       {"Name":"ReadOnly"},
       {"Name":"RelativeMargin","Value":{"@xsi:type":"xsd:int","#text":"5"}},
       {"Name":"RelativeStacking","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"ScriptFile"},
+      {"Name":"Source"},
       {"Name":"StackVertWith","Value":{"@xsi:type":"xsd:string","#text":"token"}},
       {"Name":"SubWindowClassName","Value":{"@xsi:type":"xsd:string","#text":"ct_attacks"}},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"88"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"145"}}
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -4891,22 +5093,29 @@ end
       {"Name":"InheritSizePosition"},
       {"Name":"InsertBefore"},
       {"Name":"Invisible"},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"NextTabTarget"},
       {"Name":"PrevTabTarget"},
       {"Name":"ReadOnly"},
       {"Name":"RelativeMargin","Value":{"@xsi:type":"xsd:int","#text":"5"}},
       {"Name":"RelativeStacking","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"ScriptFile"},
+      {"Name":"Source"},
       {"Name":"StackVertWith","Value":{"@xsi:type":"xsd:string","#text":"token"}},
       {"Name":"SubWindowClassName","Value":{"@xsi:type":"xsd:string","#text":"ct_defense"}},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"88"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"180"}}
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -4935,22 +5144,29 @@ end
       {"Name":"InheritSizePosition"},
       {"Name":"InsertBefore"},
       {"Name":"Invisible"},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"NextTabTarget"},
       {"Name":"PrevTabTarget"},
       {"Name":"ReadOnly"},
       {"Name":"RelativeMargin","Value":{"@xsi:type":"xsd:int","#text":"5"}},
       {"Name":"RelativeStacking","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"ScriptFile"},
+      {"Name":"Source"},
       {"Name":"StackVertWith","Value":{"@xsi:type":"xsd:string","#text":"token"}},
       {"Name":"SubWindowClassName","Value":{"@xsi:type":"xsd:string","#text":"ct_effects"}},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"88"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"110"}}
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -4971,7 +5187,7 @@ end
       {"Name":"Disabled"},
       {"Name":"FastInit"},
       {"Name":"FrameName","Value":{"@xsi:type":"xsd:string","#text":"ct_subgroupbox"}},
-      {"Name":"FrameOffset","Value":{"@xsi:type":"xsd:string","#text":"8,6,8,6"}},
+      {"Name":"FrameOffset","Value":{"@xsi:type":"xsd:string","#text":"8,8,8,8"}},
       {"Name":"GMEditOnly"},
       {"Name":"GMVisibleOnly"},
       {"Name":"HorizontalAnchor","Value":{"@xsi:type":"xsd:int","#text":"2"}},
@@ -4979,27 +5195,34 @@ end
       {"Name":"InheritSizePosition"},
       {"Name":"InsertBefore"},
       {"Name":"Invisible"},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"NextTabTarget"},
       {"Name":"PrevTabTarget"},
       {"Name":"ReadOnly"},
       {"Name":"RelativeMargin","Value":{"@xsi:type":"xsd:int","#text":"5"}},
       {"Name":"RelativeStacking","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"ScriptFile"},
+      {"Name":"Source"},
       {"Name":"StackVertWith","Value":{"@xsi:type":"xsd:string","#text":"token"}},
       {"Name":"SubWindowClassName","Value":{"@xsi:type":"xsd:string","#text":"ct_spacing"}},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"88"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"75"}}
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
     <ControlName>sub_targeting</ControlName>
-    <ZIndex>19</ZIndex>
+    <ZIndex>18</ZIndex>
     <ControlClass>FGSubWindow</ControlClass>
     <Definition>{"ArrayOfFGControlPropertyInfo":{"@xmlns:xsd":"http://www.w3.org/2001/XMLSchema","@xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance","FGControlPropertyInfo":[
       {"Name":"Activate"},
@@ -5023,22 +5246,29 @@ end
       {"Name":"InheritSizePosition"},
       {"Name":"InsertBefore"},
       {"Name":"Invisible"},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"NextTabTarget"},
       {"Name":"PrevTabTarget"},
       {"Name":"ReadOnly"},
       {"Name":"RelativeMargin","Value":{"@xsi:type":"xsd:int","#text":"5"}},
       {"Name":"RelativeStacking","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"ScriptFile"},
+      {"Name":"Source"},
       {"Name":"StackVertWith","Value":{"@xsi:type":"xsd:string","#text":"token"}},
       {"Name":"SubWindowClassName","Value":{"@xsi:type":"xsd:string","#text":"ct_targets"}},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"88"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"40"}}
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -5056,6 +5286,7 @@ end
       {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"18"}},
       {"Name":"DesignerLocked","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"DesignerWidth","Value":{"@xsi:type":"xsd:int","#text":"445"}},
+      {"Name":"Disabled"},
       {"Name":"FontColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
       {"Name":"FontName","Value":{"@xsi:type":"xsd:string","#text":"sheettext"}},
       {"Name":"FrameName"},
@@ -5067,7 +5298,11 @@ end
       {"Name":"InsertBefore"},
       {"Name":"Invisible","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"LabelCaption","Value":{"@xsi:type":"xsd:string"}},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"MultilineSpacing","Value":{"@xsi:type":"xsd:int","#text":"16"}},
       {"Name":"NextTabTarget"},
       {"Name":"PrevTabTarget"},
@@ -5075,18 +5310,21 @@ end
       {"Name":"RelativeStacking","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"ScriptFile","Value":{"@xsi:type":"xsd:string","#text":"ct/scripts/ct_target_summary.lua"}},
       {"Name":"StackVertWith","Value":{"@xsi:type":"xsd:string","#text":"token"}},
+      {"Name":"TextUnderlined"},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"72"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"222"}}
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
     <ControlName>targetingicon</ControlName>
-    <ZIndex>18</ZIndex>
+    <ZIndex>19</ZIndex>
     <ControlClass>FGIconControl</ControlClass>
     <Definition>{"ArrayOfFGControlPropertyInfo":{"@xmlns:xsd":"http://www.w3.org/2001/XMLSchema","@xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance","FGControlPropertyInfo":[
       {"Name":"AdvancedTemplate"},
@@ -5097,7 +5335,7 @@ end
       {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"20"}},
       {"Name":"DesignerLocked","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"DesignerWidth","Value":{"@xsi:type":"xsd:int","#text":"20"}},
-      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
+      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"SecretRoll":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
       {"Name":"Disabled"},
       {"Name":"FrameName"},
       {"Name":"FrameOffset","Value":{"@xsi:type":"xsd:string"}},
@@ -5109,21 +5347,27 @@ end
       {"Name":"InheritSizePosition"},
       {"Name":"InsertBefore"},
       {"Name":"Invisible"},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"NextTabTarget"},
       {"Name":"PrevTabTarget"},
       {"Name":"ReadOnly"},
       {"Name":"RelativeMargin"},
       {"Name":"RelativeStacking"},
       {"Name":"ScriptFile"},
-      {"Name":"StackVertWith","Value":{"@xsi:type":"xsd:string","#text":"token"}},
+      {"Name":"StackVertWith","Value":{"@xsi:type":"xsd:string","#text":"sub_targeting"}},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"68"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"46"}}
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -5150,7 +5394,11 @@ end
       {"Name":"InheritSizePosition"},
       {"Name":"InsertBefore"},
       {"Name":"Invisible"},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"NextTabTarget"},
       {"Name":"NoDrag","Value":{"@xsi:type":"xsd:boolean","#text":"false"}},
       {"Name":"NoDrop","Value":{"@xsi:type":"xsd:boolean","#text":"false"}},
@@ -5159,14 +5407,17 @@ end
       {"Name":"RelativeMargin"},
       {"Name":"RelativeStacking"},
       {"Name":"ScriptFile","Value":{"@xsi:type":"xsd:string","#text":"ct/scripts/ct_token.lua"}},
+      {"Name":"Source"},
       {"Name":"StackVertWith"},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"27"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"5"}}
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -5177,6 +5428,7 @@ end
       {"Name":"AdvancedTemplate"},
       {"Name":"BackgroundColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
       {"Name":"CanGrowVert"},
+      {"Name":"Center"},
       {"Name":"ControlName","Value":{"@xsi:type":"xsd:string","#text":"tokenrefid"}},
       {"Name":"CustomAnchoring","Value":{"@xsi:type":"ArrayOfAnchorDefinition"}},
       {"Name":"CustomProperties","Value":{"@xsi:type":"ArrayOfCustomProperty"}},
@@ -5185,7 +5437,7 @@ end
       {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"20"}},
       {"Name":"DesignerLocked","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"DesignerWidth","Value":{"@xsi:type":"xsd:int","#text":"20"}},
-      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
+      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"SecretRoll":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
       {"Name":"Disabled"},
       {"Name":"EmptyText"},
       {"Name":"FontColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
@@ -5200,7 +5452,11 @@ end
       {"Name":"InsertBefore"},
       {"Name":"Invisible","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"LineOffset","Value":{"@xsi:type":"xsd:int","#text":"2"}},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"MultilineSpacing"},
       {"Name":"NextTabTarget"},
       {"Name":"NoDrag","Value":{"@xsi:type":"xsd:boolean","#text":"false"}},
@@ -5211,14 +5467,17 @@ end
       {"Name":"RelativeMargin"},
       {"Name":"RelativeStacking"},
       {"Name":"ScriptFile"},
+      {"Name":"Source"},
       {"Name":"StackVertWith"},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"533"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"8"}}
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -5229,6 +5488,7 @@ end
       {"Name":"AdvancedTemplate"},
       {"Name":"BackgroundColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
       {"Name":"CanGrowVert"},
+      {"Name":"Center"},
       {"Name":"ControlName","Value":{"@xsi:type":"xsd:string","#text":"tokenrefnode"}},
       {"Name":"CustomAnchoring","Value":{"@xsi:type":"ArrayOfAnchorDefinition"}},
       {"Name":"CustomProperties","Value":{"@xsi:type":"ArrayOfCustomProperty"}},
@@ -5237,7 +5497,7 @@ end
       {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"20"}},
       {"Name":"DesignerLocked","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"DesignerWidth","Value":{"@xsi:type":"xsd:int","#text":"20"}},
-      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
+      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"SecretRoll":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
       {"Name":"Disabled"},
       {"Name":"EmptyText"},
       {"Name":"FontColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
@@ -5252,7 +5512,11 @@ end
       {"Name":"InsertBefore"},
       {"Name":"Invisible","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"LineOffset","Value":{"@xsi:type":"xsd:int","#text":"2"}},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"MultilineSpacing"},
       {"Name":"NextTabTarget"},
       {"Name":"NoDrag","Value":{"@xsi:type":"xsd:boolean","#text":"false"}},
@@ -5263,14 +5527,17 @@ end
       {"Name":"RelativeMargin"},
       {"Name":"RelativeStacking"},
       {"Name":"ScriptFile"},
+      {"Name":"Source"},
       {"Name":"StackVertWith"},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"564"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"8"}}
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_entry</WindowName>
@@ -5289,7 +5556,7 @@ end
       {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"20"}},
       {"Name":"DesignerLocked","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"DesignerWidth","Value":{"@xsi:type":"xsd:int","#text":"20"}},
-      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
+      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"SecretRoll":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
       {"Name":"Disabled"},
       {"Name":"FontColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
       {"Name":"FontName","Value":{"@xsi:type":"xsd:string"}},
@@ -5303,7 +5570,11 @@ end
       {"Name":"InheritSizePosition"},
       {"Name":"InsertBefore"},
       {"Name":"Invisible","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"NextTabTarget"},
       {"Name":"NormalIconName","Value":{"@xsi:type":"xsd:string","#text":"visibilityon"}},
       {"Name":"PressedIconName"},
@@ -5314,6 +5585,7 @@ end
       {"Name":"ScriptFile"},
       {"Name":"StackVertWith"},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"48"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"23"}}
@@ -5322,6 +5594,7 @@ end
     window.onVisibilityChanged();
 end</LUACode>
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_spacing</WindowName>
@@ -5336,12 +5609,11 @@ end</LUACode>
       {"Name":"ControlName","Value":{"@xsi:type":"xsd:string","#text":"ct_spacing"}},
       {"Name":"CustomProperties","Value":{"@xsi:type":"ArrayOfCustomProperty"}},
       {"Name":"DataSource"},
-      {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"29"}},
+      {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"26"}},
       {"Name":"DesignerWidth","Value":{"@xsi:type":"xsd:int","#text":"350"}},
       {"Name":"Disabled"},
       {"Name":"Dynamic"},
       {"Name":"FrameName"},
-      {"Name":"FrameOffset","Value":{"@xsi:type":"xsd:string"}},
       {"Name":"HorizontalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"HostControl"},
       {"Name":"HoverCursor"},
@@ -5351,6 +5623,7 @@ end</LUACode>
       {"Name":"MaximumHeight"},
       {"Name":"MaximumWidth"},
       {"Name":"MergeWindow"},
+      {"Name":"MinimizedIcon"},
       {"Name":"MinimumHeight"},
       {"Name":"MinimumWidth"},
       {"Name":"NoClose"},
@@ -5367,6 +5640,8 @@ end</LUACode>
       {"Name":"Sharable"},
       {"Name":"ShareAs"},
       {"Name":"SoftClose"},
+      {"Name":"Tooltip"},
+      {"Name":"TooltipField"},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"WindowTitle"},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"0"}},
@@ -5374,6 +5649,7 @@ end</LUACode>
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_spacing</WindowName>
@@ -5389,10 +5665,10 @@ end</LUACode>
       {"Name":"DefaultValue"},
       {"Name":"DelayKeyUpdate"},
       {"Name":"DescriptionText"},
-      {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"28"}},
+      {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"26"}},
       {"Name":"DesignerLocked","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"DesignerWidth","Value":{"@xsi:type":"xsd:int","#text":"50"}},
-      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
+      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"SecretRoll":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
       {"Name":"Disabled"},
       {"Name":"DisplaySign"},
       {"Name":"FontColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
@@ -5402,13 +5678,18 @@ end</LUACode>
       {"Name":"GMEditOnly"},
       {"Name":"GMVisibleOnly"},
       {"Name":"HideOnValue"},
+      {"Name":"HideRollWidget"},
       {"Name":"HorizontalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"HoverCursor"},
       {"Name":"InheritSizePosition"},
       {"Name":"InsertBefore"},
       {"Name":"Invisible"},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"MaxValue"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"MinValue"},
       {"Name":"NextTabTarget"},
       {"Name":"NoDrag"},
@@ -5419,14 +5700,17 @@ end</LUACode>
       {"Name":"RelativeMargin"},
       {"Name":"RelativeStacking"},
       {"Name":"ScriptFile"},
+      {"Name":"Source"},
       {"Name":"StackVertWith"},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate"},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"170"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"0"}}
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_spacing</WindowName>
@@ -5444,6 +5728,7 @@ end</LUACode>
       {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"20"}},
       {"Name":"DesignerLocked","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"DesignerWidth","Value":{"@xsi:type":"xsd:int","#text":"35"}},
+      {"Name":"Disabled"},
       {"Name":"FontColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
       {"Name":"FontName","Value":{"@xsi:type":"xsd:string","#text":"sheetlabel"}},
       {"Name":"FrameName"},
@@ -5455,7 +5740,11 @@ end</LUACode>
       {"Name":"InsertBefore"},
       {"Name":"Invisible"},
       {"Name":"LabelCaption","Value":{"@xsi:type":"xsd:string","#text":"Reach"}},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"MultilineSpacing"},
       {"Name":"NextTabTarget"},
       {"Name":"PrevTabTarget"},
@@ -5463,13 +5752,16 @@ end</LUACode>
       {"Name":"RelativeStacking"},
       {"Name":"ScriptFile"},
       {"Name":"StackVertWith"},
+      {"Name":"TextUnderlined"},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate"},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"130"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"4"}}
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_spacing</WindowName>
@@ -5485,10 +5777,10 @@ end</LUACode>
       {"Name":"DefaultValue"},
       {"Name":"DelayKeyUpdate"},
       {"Name":"DescriptionText"},
-      {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"28"}},
+      {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"26"}},
       {"Name":"DesignerLocked","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"DesignerWidth","Value":{"@xsi:type":"xsd:int","#text":"50"}},
-      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
+      {"Name":"DiceRoll","Value":{"@xsi:type":"PropertyDiceRoll","UseModStack":{"@xsi:nil":"true"},"ResetModStack":{"@xsi:nil":"true"},"SecretRoll":{"@xsi:nil":"true"},"AllowDragDrop":{"@xsi:nil":"true"},"AdditionalInfo":null}},
       {"Name":"Disabled"},
       {"Name":"DisplaySign"},
       {"Name":"FontColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
@@ -5498,13 +5790,18 @@ end</LUACode>
       {"Name":"GMEditOnly"},
       {"Name":"GMVisibleOnly"},
       {"Name":"HideOnValue"},
+      {"Name":"HideRollWidget"},
       {"Name":"HorizontalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"HoverCursor"},
       {"Name":"InheritSizePosition"},
       {"Name":"InsertBefore"},
       {"Name":"Invisible"},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"MaxValue"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"MinValue"},
       {"Name":"NextTabTarget"},
       {"Name":"NoDrag"},
@@ -5515,14 +5812,17 @@ end</LUACode>
       {"Name":"RelativeMargin"},
       {"Name":"RelativeStacking"},
       {"Name":"ScriptFile"},
+      {"Name":"Source"},
       {"Name":"StackVertWith"},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate"},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"56"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"0"}}
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
   <WindowControls>
     <WindowName>ct_spacing</WindowName>
@@ -5540,6 +5840,7 @@ end</LUACode>
       {"Name":"DesignerHeight","Value":{"@xsi:type":"xsd:int","#text":"20"}},
       {"Name":"DesignerLocked","Value":{"@xsi:type":"xsd:boolean","#text":"true"}},
       {"Name":"DesignerWidth","Value":{"@xsi:type":"xsd:int","#text":"35"}},
+      {"Name":"Disabled"},
       {"Name":"FontColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
       {"Name":"FontName","Value":{"@xsi:type":"xsd:string","#text":"sheetlabel"}},
       {"Name":"FrameName"},
@@ -5551,7 +5852,11 @@ end</LUACode>
       {"Name":"InsertBefore"},
       {"Name":"Invisible"},
       {"Name":"LabelCaption","Value":{"@xsi:type":"xsd:string","#text":"Size"}},
+      {"Name":"MaximumHeight"},
+      {"Name":"MaximumWidth"},
       {"Name":"Merge"},
+      {"Name":"MinimumHeight"},
+      {"Name":"MinimumWidth"},
       {"Name":"MultilineSpacing"},
       {"Name":"NextTabTarget"},
       {"Name":"PrevTabTarget"},
@@ -5559,13 +5864,16 @@ end</LUACode>
       {"Name":"RelativeStacking"},
       {"Name":"ScriptFile"},
       {"Name":"StackVertWith"},
+      {"Name":"TextUnderlined"},
       {"Name":"Tooltip"},
+      {"Name":"UseAsTemplate"},
       {"Name":"VerticalAnchor","Value":{"@xsi:type":"xsd:int","#text":"0"}},
       {"Name":"XPos","Value":{"@xsi:type":"xsd:int","#text":"15"}},
       {"Name":"YPos","Value":{"@xsi:type":"xsd:int","#text":"4"}}
 ]}}</Definition>
     <LUACode />
     <GroupIndex>0</GroupIndex>
+    <Template />
   </WindowControls>
 </DocumentElement>
 
