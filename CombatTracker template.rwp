@@ -2196,11 +2196,11 @@ end</LUACode>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
     <ControlName>button_ct_faction_foe</ControlName>
-    <ZIndex>16</ZIndex>
+    <ZIndex>14</ZIndex>
     <ControlClass>FGIconControl</ControlClass>
     <Definition>{"ArrayOfFGControlPropertyInfo":{"@xmlns:xsd":"http://www.w3.org/2001/XMLSchema","@xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance","FGControlPropertyInfo":[
       {"Name":"AdvancedAnchoring","Value":{"@xsi:type":"ArrayOfAdvancedAnchor"}},
-      {"Name":"AdvancedTemplate","Value":{"@xsi:type":"xsd:string","#text":"button_ct_friendfoe"}},
+      {"Name":"AdvancedTemplate","Value":{"@xsi:type":"xsd:string","#text":"button_ct_controls_faction"}},
       {"Name":"BackgroundColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
       {"Name":"ControlName","Value":{"@xsi:type":"xsd:string","#text":"button_ct_faction_foe"}},
       {"Name":"CustomAnchoring","Value":{"@xsi:type":"ArrayOfAnchorDefinition"}},
@@ -2249,11 +2249,11 @@ end</LUACode>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
     <ControlName>button_ct_faction_friend</ControlName>
-    <ZIndex>14</ZIndex>
+    <ZIndex>12</ZIndex>
     <ControlClass>FGIconControl</ControlClass>
     <Definition>{"ArrayOfFGControlPropertyInfo":{"@xmlns:xsd":"http://www.w3.org/2001/XMLSchema","@xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance","FGControlPropertyInfo":[
       {"Name":"AdvancedAnchoring","Value":{"@xsi:type":"ArrayOfAdvancedAnchor"}},
-      {"Name":"AdvancedTemplate","Value":{"@xsi:type":"xsd:string","#text":"button_ct_friendfoe"}},
+      {"Name":"AdvancedTemplate","Value":{"@xsi:type":"xsd:string","#text":"button_ct_controls_faction"}},
       {"Name":"BackgroundColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
       {"Name":"ControlName","Value":{"@xsi:type":"xsd:string","#text":"button_ct_faction_friend"}},
       {"Name":"CustomAnchoring","Value":{"@xsi:type":"ArrayOfAnchorDefinition"}},
@@ -2302,11 +2302,11 @@ end</LUACode>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
     <ControlName>button_ct_faction_neutral</ControlName>
-    <ZIndex>15</ZIndex>
+    <ZIndex>13</ZIndex>
     <ControlClass>FGIconControl</ControlClass>
     <Definition>{"ArrayOfFGControlPropertyInfo":{"@xmlns:xsd":"http://www.w3.org/2001/XMLSchema","@xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance","FGControlPropertyInfo":[
       {"Name":"AdvancedAnchoring","Value":{"@xsi:type":"ArrayOfAdvancedAnchor"}},
-      {"Name":"AdvancedTemplate","Value":{"@xsi:type":"xsd:string","#text":"button_ct_friendfoe"}},
+      {"Name":"AdvancedTemplate","Value":{"@xsi:type":"xsd:string","#text":"button_ct_controls_faction"}},
       {"Name":"BackgroundColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
       {"Name":"ControlName","Value":{"@xsi:type":"xsd:string","#text":"button_ct_faction_neutral"}},
       {"Name":"CustomAnchoring","Value":{"@xsi:type":"ArrayOfAnchorDefinition"}},
@@ -2355,7 +2355,7 @@ end</LUACode>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
     <ControlName>button_ct_menu</ControlName>
-    <ZIndex>17</ZIndex>
+    <ZIndex>15</ZIndex>
     <ControlClass>FGButton</ControlClass>
     <Definition>{"ArrayOfFGControlPropertyInfo":{"@xmlns:xsd":"http://www.w3.org/2001/XMLSchema","@xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance","FGControlPropertyInfo":[
       {"Name":"AdvancedAnchoring","Value":{"@xsi:type":"ArrayOfAdvancedAnchor"}},
@@ -2418,7 +2418,7 @@ end</LUACode>
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
     <ControlName>button_ct_nextactor</ControlName>
-    <ZIndex>13</ZIndex>
+    <ZIndex>11</ZIndex>
     <ControlClass>FGButton</ControlClass>
     <Definition>{"ArrayOfFGControlPropertyInfo":{"@xmlns:xsd":"http://www.w3.org/2001/XMLSchema","@xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance","FGControlPropertyInfo":[
       {"Name":"AdvancedAnchoring","Value":{"@xsi:type":"ArrayOfAdvancedAnchor"}},
@@ -2491,11 +2491,11 @@ end
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
     <ControlName>button_ct_nextround</ControlName>
-    <ZIndex>20</ZIndex>
+    <ZIndex>18</ZIndex>
     <ControlClass>FGButton</ControlClass>
     <Definition>{"ArrayOfFGControlPropertyInfo":{"@xmlns:xsd":"http://www.w3.org/2001/XMLSchema","@xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance","FGControlPropertyInfo":[
       {"Name":"AdvancedAnchoring","Value":{"@xsi:type":"ArrayOfAdvancedAnchor"}},
-      {"Name":"AdvancedTemplate","Value":{"@xsi:type":"xsd:string","#text":"button_ct_nextround"}},
+      {"Name":"AdvancedTemplate","Value":{"@xsi:type":"xsd:string","#text":"button_ct_controls_nextround"}},
       {"Name":"AllowDoubleClick"},
       {"Name":"BackgroundColor","Value":{"@xsi:type":"xsd:string","#text":"0;0;0;0"}},
       {"Name":"ButtonCaption","Value":{"@xsi:type":"xsd:string"}},
@@ -2554,7 +2554,7 @@ end
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
     <ControlName>button_ct_setactive</ControlName>
-    <ZIndex>12</ZIndex>
+    <ZIndex>10</ZIndex>
     <ControlClass>FGButton</ControlClass>
     <Definition>{"ArrayOfFGControlPropertyInfo":{"@xmlns:xsd":"http://www.w3.org/2001/XMLSchema","@xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance","FGControlPropertyInfo":[
       {"Name":"AdvancedAnchoring","Value":{"@xsi:type":"ArrayOfAdvancedAnchor"}},
@@ -2697,7 +2697,7 @@ end
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
     <ControlName>clientview</ControlName>
-    <ZIndex>21</ZIndex>
+    <ZIndex>19</ZIndex>
     <ControlClass>FGButton</ControlClass>
     <Definition>{"ArrayOfFGControlPropertyInfo":{"@xmlns:xsd":"http://www.w3.org/2001/XMLSchema","@xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance","FGControlPropertyInfo":[
       {"Name":"AdvancedAnchoring","Value":{"@xsi:type":"ArrayOfAdvancedAnchor"}},
@@ -2875,7 +2875,7 @@ end
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
     <ControlName>frame_footer</ControlName>
-    <ZIndex>11</ZIndex>
+    <ZIndex>9</ZIndex>
     <ControlClass>FGIconControl</ControlClass>
     <Definition>{"ArrayOfFGControlPropertyInfo":{"@xmlns:xsd":"http://www.w3.org/2001/XMLSchema","@xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance","FGControlPropertyInfo":[
       {"Name":"AdvancedAnchoring","Value":{"@xsi:type":"ArrayOfAdvancedAnchor"}},
@@ -2981,7 +2981,7 @@ end
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
     <ControlName>label_ct_host_rounds</ControlName>
-    <ZIndex>18</ZIndex>
+    <ZIndex>16</ZIndex>
     <ControlClass>FGLabel</ControlClass>
     <Definition>{"ArrayOfFGControlPropertyInfo":{"@xmlns:xsd":"http://www.w3.org/2001/XMLSchema","@xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance","FGControlPropertyInfo":[
       {"Name":"AdvancedAnchoring","Value":{"@xsi:type":"ArrayOfAdvancedAnchor"}},
@@ -3036,7 +3036,7 @@ end
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
     <ControlName>label_init</ControlName>
-    <ZIndex>9</ZIndex>
+    <ZIndex>7</ZIndex>
     <ControlClass>FGLabel</ControlClass>
     <Definition>{"ArrayOfFGControlPropertyInfo":{"@xmlns:xsd":"http://www.w3.org/2001/XMLSchema","@xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance","FGControlPropertyInfo":[
       {"Name":"AdvancedAnchoring","Value":{"@xsi:type":"ArrayOfAdvancedAnchor"}},
@@ -3091,7 +3091,7 @@ end
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
     <ControlName>label_name</ControlName>
-    <ZIndex>8</ZIndex>
+    <ZIndex>6</ZIndex>
     <ControlClass>FGLabel</ControlClass>
     <Definition>{"ArrayOfFGControlPropertyInfo":{"@xmlns:xsd":"http://www.w3.org/2001/XMLSchema","@xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance","FGControlPropertyInfo":[
       {"Name":"AdvancedAnchoring","Value":{"@xsi:type":"ArrayOfAdvancedAnchor"}},
@@ -3146,7 +3146,7 @@ end
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
     <ControlName>list</ControlName>
-    <ZIndex>7</ZIndex>
+    <ZIndex>5</ZIndex>
     <ControlClass>FGWindowList</ControlClass>
     <Definition>{"ArrayOfFGControlPropertyInfo":{"@xmlns:xsd":"http://www.w3.org/2001/XMLSchema","@xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance","FGControlPropertyInfo":[
       {"Name":"AcceptDrop","Value":{"@xsi:type":"ArrayOfPropertyAcceptDrop"}},
@@ -3354,7 +3354,7 @@ end
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
     <ControlName>round</ControlName>
-    <ZIndex>19</ZIndex>
+    <ZIndex>17</ZIndex>
     <ControlClass>FGNumberField</ControlClass>
     <Definition>{"ArrayOfFGControlPropertyInfo":{"@xmlns:xsd":"http://www.w3.org/2001/XMLSchema","@xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance","FGControlPropertyInfo":[
       {"Name":"AdvancedAnchoring","Value":{"@xsi:type":"ArrayOfAdvancedAnchor"}},
@@ -3419,7 +3419,7 @@ end
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
     <ControlName>scrollbar_list</ControlName>
-    <ZIndex>10</ZIndex>
+    <ZIndex>8</ZIndex>
     <ControlClass>FGScrollBar</ControlClass>
     <Definition>{"ArrayOfFGControlPropertyInfo":{"@xmlns:xsd":"http://www.w3.org/2001/XMLSchema","@xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance","FGControlPropertyInfo":[
       {"Name":"AdvancedAnchoring","Value":{"@xsi:type":"ArrayOfAdvancedAnchor"}},
@@ -3473,7 +3473,7 @@ end
   <WindowControls>
     <WindowName>combattracker_host</WindowName>
     <ControlName>windowmenubar</ControlName>
-    <ZIndex>22</ZIndex>
+    <ZIndex>20</ZIndex>
     <ControlClass>FGCustomControl</ControlClass>
     <Definition>{"ArrayOfFGControlPropertyInfo":{"@xmlns:xsd":"http://www.w3.org/2001/XMLSchema","@xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance","FGControlPropertyInfo":[
       {"Name":"AdvancedAnchoring","Value":{"@xsi:type":"ArrayOfAdvancedAnchor"}},
